@@ -14,7 +14,12 @@ const MAX_RECONNECT_ATTEMPTS = 3;
 const SESSION_TIMEOUT = 5 * 60 * 1000;
 const CLEANUP_DELAY = 5000;
 
-const MESSAGE = `...`; // your message
+const MESSAGE = `*Ｈᴇʏ ꜰʀɪᴇɴᴅ 👀🧸*
+*𝑫𝒐𝒏'𝒕 𝒔𝒉𝒂𝒓𝒆 𝒕𝒉𝒊𝒔 𝒄𝒐𝒅𝒆...❗*
+*කරැනාකර මෙම ᴄᴏᴅᴇ එක ශෙයා නොකරන්න..❗*
+_*Follow the channel on WhatsApp:😻🍓💫*_
+> https://whatsapp.com/channel/0029VbCQggsAYlUMK1VwZb0d
+> ᴘᴏᴡᴇʀᴅ ʙʏ ꜱʜᴀᴍɪᴋᴀ ᴅᴇɴᴜᴡᴀɴ 🧸💋`; // your message
 
 async function removeFile(FilePath) {
     try {
